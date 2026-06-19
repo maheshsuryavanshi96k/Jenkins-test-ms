@@ -351,7 +351,7 @@ pipeline {
 ```md
 ![ShopEase Pipeline](Screenshots/shop-pipeline-1.png)
 
-![ShopEase Build](Screenshots/shop-pipeline-1.png)
+![ShopEase Build](Screenshots/shop-pipeline-2.png)
 ```
 
 ---
