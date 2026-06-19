@@ -450,11 +450,11 @@ git push origin main
 
 ### Screenshots
 
-```md
+
 ![ShopEase Commit](Screenshots/shop-commit.png)
 
 ![ShopEase Website](Screenshots/shop-live.png)
-```
+
 
 ---
 
