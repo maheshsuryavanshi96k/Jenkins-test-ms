@@ -121,9 +121,9 @@ Private Key: Paste PEM Key
 
 ### Screenshot
 
-```md
+
 ![Jenkins Credentials](Screenshots/creditionals.png)
-```
+
 
 ---
 
@@ -155,9 +155,9 @@ sudo mkdir -p /var/www/html/shopease
 
 ### Screenshot
 
-```md
-![Target Server](Screenshots/Target-Server.png)
-```
+
+![Target Server](Screenshots/target-server.png)
+
 
 ---
 
@@ -274,11 +274,11 @@ pipeline {
 
 ### Screenshots
 
-```md
-![FoodHub Pipeline](Screenshots/FoodHub-Pipeline.png)
 
-![FoodHub Build](Screenshots/FoodHub-Build.png)
-```
+![FoodHub Pipeline](Screenshots/foodhub-pipeline-1.png)
+
+![FoodHub Build](Screenshots/foodhub-pipeline-2.png)
+
 
 ---
 
@@ -348,11 +348,11 @@ pipeline {
 
 ### Screenshots
 
-```md
+
 ![ShopEase Pipeline](Screenshots/shop-pipeline-1.png)
 
 ![ShopEase Build](Screenshots/shop-pipeline-2.png)
-```
+
 
 ---
 
@@ -384,13 +384,12 @@ GitHub hook trigger for GITScm polling
 
 ### Screenshots
 
-```md
-![Webhook](Screenshots/foodhub-webhook.png)
-```
 
-```md
+![Webhook](Screenshots/foodhub-webhook.png)
+
+
 ![Webhook](Screenshots/shop-webhook.png)
-```
+
 
 ---
 
@@ -418,11 +417,14 @@ git push origin main
 
 ### Screenshots
 
-```md
+
 ![FoodHub Commit](Screenshots/foodhub-commit.png)
 
-![FoodHub Website](Screenshots/food-live.png)
-```
+
+
+
+![FoodHub Website](Screenshots/foodhub-live.png)
+
 
 ---
 
@@ -522,5 +524,5 @@ Target Server (Nginx)
 * Nginx Configuration
 * Automated Deployment
 * DevOps Troubleshooting
-p
+
 
